@@ -1,0 +1,24 @@
+{
+  "name": "async-flow",
+  "version": "1.0.0",
+  "description": "Asynchronous programming and flow control",
+  "main": "list-stable-modules.js",
+  "scripts": {
+    "test": "node list-stable-modules.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spoorthya/async-flow.git"
+  },
+  "keywords": [
+    "async",
+    "underscore",
+    "request"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spoorthya/async-flow/issues"
+  },
+  "homepage": "https://github.com/Spoorthya/async-flow#readme"
+}
